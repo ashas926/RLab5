@@ -1,4 +1,4 @@
 language: r
 cache: packages
 before_install:
-  - cd Lab5/Lab5/
+  - cd Lab5/
